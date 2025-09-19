@@ -1,3 +1,4 @@
-1. 自动优选 IPTV
+https://daili.korice.eu.org/
 
-2. 自动拉取 OK接口
+
+https://cors.isteed.cc/
